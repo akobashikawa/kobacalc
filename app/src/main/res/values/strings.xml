@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KobaCalc</string>
+
+    <!-- http://symbolcodes.tlt.psu.edu/bylanguage/mathchart.html -->
+    <string name="sqrt_symbol">\u221a</string>
+    <string name="oposite_symbol">\u00b1</string>
+    <string name="multiply_symbol">\u00d7</string>
+    <string name="substract_symbol">\u2212</string>
+    <string name="action_settings">Settings</string>
+</resources>
